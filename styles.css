@@ -230,7 +230,7 @@ span{
     height: 300px;
     margin-left: 4px;
     padding: 15px;
-   
+    margin-right: 5%;
 }
 .third{
     margin-top: 50px;
@@ -252,11 +252,13 @@ span{
     color:white;
     text-align: center;
     left:3px;
+    line-height: 110px;
+    
     
 }
 
 .one{
-    top:30px;
+    top:45px;
     position: relative;
     left:30px;
     width:200px;
@@ -272,7 +274,7 @@ span{
 
 .two{
    
-    top:30px;
+    top:45px;
     position: relative;
     left:30px;
     width:200px;
@@ -297,9 +299,10 @@ span{
     padding:30px;
     border-radius: 30px;
     display:inline-block;
+    line-height: 20px;
 }
 .four{
-    top:30px;
+    top:45px;
     position: relative;
     left:30px;
     width:200px;
